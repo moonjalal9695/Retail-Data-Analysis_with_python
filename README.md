@@ -1,2 +1,47 @@
-# Retail-Data-Analysis_with_python
-Performing EDA on the online retail dataset)
+# 📦 E-Commerce Sales & Customer Analysis Project
+
+A complete data analysis project using Python, focused on uncovering business insights from real-world e-commerce sales data.  
+This project explores order behavior, customer segments, top-selling products, and country-wise performance using Python libraries.
+
+---
+
+## 🔍 Project Goals
+
+- Clean and prepare the dataset for analysis
+- Perform detailed exploratory data analysis (EDA)
+- Answer key business questions using Python visualizations and statistics
+
+---
+
+## 🧠 Business Questions Answered
+
+- What are the top 10 best-selling products?
+- Which countries generate the most revenue?
+- What is the monthly revenue trend?
+- What is the average order value per country?
+- Who are the highest-value customers?
+- What are the busiest times of day for purchases?
+- How big is a typical order?
+
+---
+
+## 🛠 Tools Used
+
+| Tool        | Purpose                                     |
+|-------------|---------------------------------------------|
+| **Python**  | Data cleaning + EDA (pandas, matplotlib, seaborn) |
+| **Colab** | Python code execution and visualization |
+| **Kaggle**  | Data source |
+
+---
+
+## 📁 Dataset
+
+- **Source**: [E-Commerce Dataset from UCI via Kaggle](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- **Description**: Transactions from a UK-based online retailer, includes invoices, products, countries, and quantities.
+- **Rows**: ~500,000+  
+- **Fields**: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`
+
+---
+
+
