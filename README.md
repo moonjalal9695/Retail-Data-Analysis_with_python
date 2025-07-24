@@ -31,8 +31,8 @@ This project explores order behavior, customer segments, top-selling products, a
 |-------------|---------------------------------------------|
 | **Python**  | Data cleaning + EDA (pandas, matplotlib, seaborn) |
 | **Colab** | Python code execution and visualization |
+| **Tableau  | Interactive dashboard building |
 | **Kaggle**  | Data source |
-
 ---
 
 ## 📁 Dataset
@@ -45,4 +45,9 @@ This project explores order behavior, customer segments, top-selling products, a
 ---
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moonjalal9695/Retail-Data-Analysis_with_python/blob/main/python_EDA.ipynb)
 
+## 📊 Tableau Dashboard
+
+Explore my interactive Tableau dashboard analyzing online sales performance:
+
+🔗 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/rabaya.jalal.moon/viz/Tableau_dashboard_17533445007190/OnlineSalesDashboard?publish=yes)
 
