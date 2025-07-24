@@ -43,6 +43,6 @@ This project explores order behavior, customer segments, top-selling products, a
 - **Fields**: `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`
 
 ---
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moonjalal9695/Retail-Data-Analysis_with_python/blob/main/path/to/python_EDA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moonjalal9695/Retail-Data-Analysis_with_python/blob/main/python_EDA.ipynb)
 
 
